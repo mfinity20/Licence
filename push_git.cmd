@@ -4,7 +4,7 @@ git add .
 git commit -am "licence update"
 git push
 
-echo off
+@echo off
 ping localhost -n 5 >nul
 
 rem	pause
