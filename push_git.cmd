@@ -8,8 +8,8 @@ git push
 echo.
 echo.
 echo.
-echo Changes pushed to github. Have a nice day!
+echo Changes successfully pushed to github. Have a nice day!
 
-ping localhost -n 5 >nul
+ping localhost -n 10 >nul
 
 rem	pause
