@@ -3,5 +3,7 @@ rem	git checkout dev
 git add .
 git commit -am "licence update"
 git push
-wait 5
+
+ping 127.0.0.1 -n 1 -w 5000 >nul
+
 rem	pause
