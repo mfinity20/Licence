@@ -5,7 +5,11 @@ git commit -am "licence update"
 git push
 
 @echo off
+echo.
+echo.
+echo.
 echo Changes pushed to github. Have a nice day!
+
 ping localhost -n 5 >nul
 
 rem	pause
