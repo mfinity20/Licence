@@ -3,4 +3,5 @@ rem	git checkout dev
 git add .
 git commit -am "licence update"
 git push
-pause
+wait 5
+rem	pause
