@@ -1,5 +1,7 @@
 rem	cd C:\MT4\Account_1\MQL4\Files\Mfinity\Licence
 rem	git checkout dev
+rem	git config --global user.email "support@mfinity20.com"
+
 git add .
 git commit -am "licence update"
 git push
