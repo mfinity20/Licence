@@ -1,4 +1,6 @@
 rem	cd C:\MT4\Account_1\MQL4\Files\Mfinity\Licence
+
+rem	Git lokal einrichten:
 rem	git checkout dev
 rem	git config --global user.email "support@mfinity20.com"
 
