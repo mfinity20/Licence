@@ -1,3 +1,4 @@
+@echo off
 rem	cd C:\MT4\Account_1\MQL4\Files\Mfinity\Licence
 
 rem	git local einrichten:
