@@ -1,5 +1,5 @@
 @echo off
-cd C:\MT4\Account_4\MQL4\Files\Mfinity\Licence
+rem	cd C:\MT4\Account_4\MQL4\Files\Mfinity\Licence
 
 rem	git local einrichten:
 rem	git clone https://github.com/mfinity20/Licence
