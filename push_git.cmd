@@ -19,4 +19,4 @@ echo Changes successfully pushed to github. Have a nice day!
 
 ping localhost -n 5 >nul
 
-rem	pause 
+rem	pause
